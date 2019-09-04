@@ -15,5 +15,5 @@ def my_all?(collection)
   end
 end
 
-my_all
+my_all?
 
